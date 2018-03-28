@@ -1,4 +1,4 @@
-
+#代码可以运行
 #!/usr/bin/python
 def showInfo():#显示功能列表
         print("学生管理系统V1.0")
